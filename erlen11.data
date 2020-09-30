@@ -1,0 +1,5 @@
+classes = 1
+train = erlen11-train20.txt
+test = erlen11-test.txt
+names = bee.names
+backup = backup/erlen11-20/
